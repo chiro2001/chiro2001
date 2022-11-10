@@ -7,4 +7,4 @@
    -->
 </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiro2001&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiro2001&&theme=github-light&bg_color=fafafa&area=true&area_color=74c1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
