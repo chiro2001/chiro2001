@@ -5,6 +5,8 @@
 
 - NEED JOBS
 
+> Due to network issues, the following data statistics are incomplete
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
