@@ -3,7 +3,7 @@
 ![C/C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=C%2B%2B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-- NEED JOBS
+I am an idiot.
 
 > Due to network issues, the following data statistics are incomplete
 
