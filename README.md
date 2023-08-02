@@ -12,12 +12,12 @@ I am an idiot.
 
 ```text
 💬 Programming Languages: 
-TeX                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/08/2023 18:37:09 UTC
+ Last Updated on 02/08/2023 18:37:06 UTC
 <!--END_SECTION:waka-->
